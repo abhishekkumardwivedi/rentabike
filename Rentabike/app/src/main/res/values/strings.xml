@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Rent a bike</string>
+
+    <!-- Strings related to login -->
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_card_number">Card Number</string>
+    <string name="hint_card_name">Name in card</string>
+    <string name="payment_details">Payment Details</string>
+    <string name="cancel">CANCEL</string>
+    <string name="submit">SUBMIT</string>
+    <string name="hint_card_expiry">MM/YY</string>
+    <string name="hint_card_code">CVC</string>
+    <string name="action_login">Login</string>
+    <string name="register">Register</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
